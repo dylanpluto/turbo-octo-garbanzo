@@ -13,7 +13,7 @@ int main()
     printf("2) To find the area of a rectangle you must multiple its length by its width.\n");
     printf("3) The formula to find the area of a rectangle is: area = length x width\n\n");
 
-     printf("*Note: This calcultor accepts decimal values.\n\n");
+     printf("*Note: This calculator accepts decimal values.\n\n");
 
     printf("Type in the length: ");
     scanf("%lf", &l);

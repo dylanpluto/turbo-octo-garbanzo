@@ -1,2 +1,2 @@
 # turbo-octo-garbanzo
-c projects
+Introductory C Projects.
